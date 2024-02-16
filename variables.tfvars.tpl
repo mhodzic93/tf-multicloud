@@ -1,0 +1,3 @@
+bucket      = ""
+environment = ""
+project     = ""
